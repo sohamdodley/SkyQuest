@@ -1,0 +1,68 @@
+{
+  "trainer": {
+    "name": "Cadet 12",
+    "type": "single-engine trainer",
+    "cruise_kt": 85,
+    "stall_kt": 48,
+    "max_thrust_factor": 1.0,
+    "burn_gph": 8.0,
+    "fuel_cap_gal": 28,
+    "reserve_gal": 4,
+    "wing_area_note": "high-lift trainer wing"
+  },
+  "puss": {
+    "name": "Mail Moth",
+    "type": "mail monoplane (Puss Moth class)",
+    "cruise_kt": 95,
+    "stall_kt": 52,
+    "max_thrust_factor": 1.0,
+    "burn_gph": 9.5,
+    "fuel_cap_gal": 42,
+    "reserve_gal": 6,
+    "wing_area_note": "thin mail wing"
+  },
+  "silver": {
+    "name": "Silver Wing",
+    "type": "1920s airliner class",
+    "cruise_kt": 140,
+    "stall_kt": 62,
+    "max_thrust_factor": 1.05,
+    "burn_gph": 48,
+    "fuel_cap_gal": 220,
+    "reserve_gal": 24,
+    "wing_area_note": "biplane airliner"
+  },
+  "boat": {
+    "name": "Empire Boat",
+    "type": "flying boat (Short Empire class)",
+    "cruise_kt": 145,
+    "stall_kt": 68,
+    "max_thrust_factor": 1.05,
+    "burn_gph": 72,
+    "fuel_cap_gal": 520,
+    "reserve_gal": 40,
+    "wing_area_note": "hull + high wing"
+  },
+  "dakota": {
+    "name": "Dakota Mail",
+    "type": "twin transport",
+    "cruise_kt": 160,
+    "stall_kt": 64,
+    "max_thrust_factor": 1.1,
+    "burn_gph": 80,
+    "fuel_cap_gal": 480,
+    "reserve_gal": 40,
+    "wing_area_note": "transport wing"
+  },
+  "jet": {
+    "name": "Cadet Jet",
+    "type": "early jet transport class",
+    "cruise_kt": 420,
+    "stall_kt": 110,
+    "max_thrust_factor": 1.2,
+    "burn_gph": 1400,
+    "fuel_cap_gal": 12000,
+    "reserve_gal": 800,
+    "wing_area_note": "swept jet wing"
+  }
+}
